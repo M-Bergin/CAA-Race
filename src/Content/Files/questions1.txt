@@ -1,0 +1,3 @@
+Which of these materials are natural?;Organic polymers;Silicon and chalk;Teflon, nylon, polystyrene$Which of these materials are living?;Wood and leaves;Silicon;Coal$Which of these materials are fossil fuels?;Coal and oil;Wood and leaves;Solar panels$Which of these can be directly used 
+to charge an electric vehicle?;Petrol;Hydrogen;Solar panels and wind turbines$Which of these materials can be used 
+to convert sunlight into electrical or chemical energy?;Bricks;Organic polymer, silicon and leaves;Mirrors

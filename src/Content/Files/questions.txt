@@ -1,0 +1,2 @@
+Which of these materials are natural?;Wood, coal, organic polymer and chalk;Wood, coal, silicon, leaves, chalk;Wood, leaves and windmill$Which of these materials are living?;Wood and leaves;Wood, silicon and leaves;Wood, coal and leaves$Which of these materials are fossil fuels?;Coal;Wood and leaves;Wood and coal$Which of these are processed materials?;Windmill;Coal, silicon and chalk;Organic polymer, windmill and sugar$Which of these materials converts sunlight
+into other forms of energy?;Silicon;Organic polymer, silicon and leaves;Coal and windmill
